@@ -6,7 +6,7 @@
 Sou formado em <b>Gestão Financeira</b> pela Uninove (2023) e atualmente atuo no cargo <b>Analista Financeiro</b> na Eskala. Atuando há 1 anos na área Financeira. Por aqui estou em busca de aprender mais um pouco sobre programação.
 
 
-Minhas Habilidades :technologist:
+###  Minhas Habilidades :technologist:
 
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
