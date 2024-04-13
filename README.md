@@ -1,6 +1,10 @@
 # Olá! Eu sou kelwin Vinicius!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 
+![Banner Gif Welcome GIF - Banner Gif Welcome - Discover   Share GIFs](https://github.com/kelwin-777/kelwin-777/assets/166253809/16716ed8-7f9d-4e86-80d8-450eea5779d6)
+
+
+
 ## ⭐️ Sobre mim
 
 Sou formado em <b>Gestão Financeira</b> pela Uninove (2023) e atualmente atuo no cargo <b>Analista Financeiro</b> na Eskala. Atuando há 1 anos na área Financeira. Por aqui estou em busca de aprender mais um pouco sobre programação.
