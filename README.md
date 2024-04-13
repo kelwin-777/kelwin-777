@@ -19,7 +19,6 @@ Sou formado em <b>Gestão Financeira</b> pela Uninove (2023) e atualmente atuo n
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelwin-vinicius-0a802a249?utm_source=share&utm_cam-paign=share_via&utm_content=profile&utm_medium=ios_app)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelwin-777)
 <a href = "kelwinvinicius7728@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
